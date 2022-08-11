@@ -1,5 +1,5 @@
 # Dynamic-Dictionary
-A dynamic dictionary written to Introduction for Computer Science course.
+A dynamic dictionary written for Introduction To Computer Science course.
 
 Support multiple languages and dynamicly allocating information to store data.
 
